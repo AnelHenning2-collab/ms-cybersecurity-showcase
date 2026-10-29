@@ -14,22 +14,16 @@ This repository showcases selected work from my MS Cybersecurity program, includ
 - Risk assessment and mitigation write‑ups that connect technical controls to real‑world security objectives.
 - Examples of secure configurations, policy artifacts, and documentation that emphasize clarity and traceability.
 
-## Repository structure
+## Where to see this work
 
-- `/docs` – High‑level documentation, project summaries, and diagrams.
-- `/labs` – Individual cybersecurity labs and case studies, each with its own README.
-- `/configs` – Example secure configurations or snippets (redacted where necessary).
-- `/reports` – Selected written analyses, reflections, or risk assessments.
+This repository is an overview. The work itself lives here:
 
-## How to view this work
-
-- For a quick overview, start in `/docs` for summaries of key labs and projects.
-- For technical depth, browse `/labs`, where each lab has its own README describing goals, tools, and outcomes.
-- Use `/configs` and `/reports` to see how I translate hands‑on work into clear, reviewable artifacts.
+- [PurdueGlobal](https://github.com/AnelHenning2-collab/PurdueGlobal): graduate assignment folders from the Purdue Global MS program.
+- [Logical Learning](https://anelhenning2-collab.github.io/logical-learning/): interactive Security+ study site built during the program.
 
 ## Tools and technologies
 
-- Languages: [Bash / PowerShell / Python, as applicable]
+- Languages: Python, R
 - Platforms: Virtualized lab environments, GitHub, GitHub Pages (for any web‑based content)
 - Security focus: System hardening, network security, vulnerability analysis, and risk management.
 
@@ -40,7 +34,6 @@ This repository is shared for educational and professional review purposes only.
 Please respect the license and any security or privacy constraints described in:
 
 - `LICENSE` – Usage terms and restrictions.
-- `SECURITY.md` – Security considerations and responsible use guidelines.
 
 ## Private access and related work
 
@@ -48,6 +41,6 @@ Some deeper or more sensitive MS Cybersecurity materials are kept in private rep
 
 If you have been invited to review my work more closely and need additional access:
 
-1. Contact me at [your email] or reply to my portfolio approval email.
+1. Email me at logicalcoders@outlook.com or use the [contact page](https://anelhenning2-collab.github.io/contact-hub/).
 2. Mention this repository and the category name: “MS Cybersecurity”.
-3. Include your GitHub username so I can add you as a collaborator to the matching private repository (`ms-cybersecurity-labs-private`).
+3. Include your GitHub username so I can add you as a collaborator to the matching private repository.
