@@ -1,10 +1,10 @@
-# MS Cybersecurity Showcase
+# MS Cybersecurity Management Showcase
 
-This repository showcases selected work from my MS Cybersecurity program, including labs, secure configurations, and written analyses.
+This repository showcases selected work from my MS Cybersecurity Management program, including labs, secure configurations, and written analyses.
 
 ## About this repository
 
-- **Focus:** MS Cybersecurity
+- **Focus:** MS Cybersecurity Management
 - Contains: Curated labs, security configurations, network and host hardening exercises, and risk/controls write‑ups.
 - Audience: Academic reviewers, cybersecurity hiring managers, and collaborators interested in my applied security work.
 
@@ -37,10 +37,10 @@ Please respect the license and any security or privacy constraints described in:
 
 ## Private access and related work
 
-Some deeper or more sensitive MS Cybersecurity materials are kept in private repositories (for example, full lab archives, detailed configurations, or graded work).
+Some deeper or more sensitive MS Cybersecurity Management materials are kept in private repositories (for example, full lab archives, detailed configurations, or graded work).
 
 If you have been invited to review my work more closely and need additional access:
 
 1. Email me at logicalcoders@outlook.com or use the [contact page](https://anelhenning2-collab.github.io/contact-hub/).
-2. Mention this repository and the category name: “MS Cybersecurity”.
+2. Mention this repository and the category name: “MS Cybersecurity Management”.
 3. Include your GitHub username so I can add you as a collaborator to the matching private repository.
